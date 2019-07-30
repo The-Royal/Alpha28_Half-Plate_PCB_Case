@@ -14,16 +14,18 @@ An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by [/u/T
 
 ___
 
-## Required For Functional Alpha28 Keyboard:
-
-- x1 Alpha28 PCB
-- x28 Through-Hole Diodes
-- x1 Pro-Micro or Pro-Micro Clone 
-
-___
+## Required For Half-Plate PCB Case:
 
 - x1 Alpha28 "Half-Plate" PCB Switch Plate
 - x1 Alpha28 PCB Bottom Base Plate
 - x4 9mm+ M2 Spacers
 - x8 M2 Screws
 - x4 Rubber Feet (Optional)
+
+## Additional Componets For Fully Functional Alpha28 Keyboard:
+
+- x1 Alpha28 PCB
+- x28 Through-Hole Diodes
+- x1 Pro-Micro or Pro-Micro Clone 
+
+___
