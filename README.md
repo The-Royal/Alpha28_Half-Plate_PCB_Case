@@ -8,12 +8,13 @@ An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by /u/Th
 
 
 
-*Orignial Alpha28 Keyboard Concept and PCB Design by /u/pyrocrastinator
+*Orignial Alpha28 Keyboard Concept and PCB Design by [/u/pyrocrastinator](https://www.reddit.com/user/pyrocrastinator)
 - Go Visit the [Alpha28 GitHub Repo](https://github.com/PyrooL/Alpha) for more information on a stellar little board.
 
 ___
 
-Required For Functional Keyboard:
+##Required For Functional Alpha28 Keyboard:
+
 - x1 Alpha28 PCB
 - x28 Through-Hole Diodes
 - x1 Pro-Micro or Pro-Micro Clone 
