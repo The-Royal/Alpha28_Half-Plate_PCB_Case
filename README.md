@@ -1,6 +1,6 @@
 # Alpha28 Half-Plate PCB-Plate-Case
  
-An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by /u/The_Royal
+An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by [/u/The_Royal](https://www.reddit.com/user/The_Royal/)
 
 ![Alpha28](https://i.imgur.com/T9BZs5g.png)
 
@@ -13,7 +13,7 @@ An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by /u/Th
 
 ___
 
-##Required For Functional Alpha28 Keyboard:
+## Required For Functional Alpha28 Keyboard:
 
 - x1 Alpha28 PCB
 - x28 Through-Hole Diodes
