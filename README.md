@@ -20,6 +20,8 @@ ___
 - x28 Through-Hole Diodes
 - x1 Pro-Micro or Pro-Micro Clone 
 
+___
+
 - x1 Alpha28 "Half-Plate" PCB Switch Plate
 - x1 Alpha28 PCB Bottom Base Plate
 - x4 9mm+ M2 Spacers
