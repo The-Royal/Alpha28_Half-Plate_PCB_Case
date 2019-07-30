@@ -2,9 +2,9 @@
  
 An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by [/u/The_Royal](https://www.reddit.com/user/The_Royal/)
 
-![Alpha28](https://i.imgur.com/T9BZs5g.png)
+![Alpha28](https://i.imgur.com/3JT8HrB.png)
 
-![Alpha28](https://i.imgur.com/tcvQXgN.png)
+![Alpha28](https://i.imgur.com/en8pT4G.png)
 
 
 
