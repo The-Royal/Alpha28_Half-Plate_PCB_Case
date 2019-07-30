@@ -8,7 +8,7 @@ An Orginal Case Design for the Alpha28 Keyboard That No One Asked For - by [/u/T
 
 
 
-**Orignial Alpha28 Keyboard Concept and PCB Design by [/u/pyrocrastinator](https://www.reddit.com/user/pyrocrastinator)
+** Orignial Alpha28 Keyboard Concept and PCB Design by [/u/pyrocrastinator](https://www.reddit.com/user/pyrocrastinator)
 - Visit the [Alpha28 GitHub Repo](https://github.com/PyrooL/Alpha) for more information on this stellar little board.
 
 ___
